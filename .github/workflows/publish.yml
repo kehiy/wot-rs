@@ -23,7 +23,7 @@ jobs:
       - name: Wait for wot-core to be available
         run: |
           for i in {1..30}; do
-            if cargo search wot-core --limit 1 | grep -q "wot-core ="; then
+            if curl -s https://crates.io/api/v1/crates/wot-core | grep -q "\"name\":\"wot-core\""; then
               echo "wot-core published successfully"
               exit 0
             fi
