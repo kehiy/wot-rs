@@ -1,0 +1,7 @@
+[package]
+name = "wot-nostr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wot-core = { path = "../core" }
