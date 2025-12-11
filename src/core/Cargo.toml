@@ -2,6 +2,13 @@
 name = "wot-core"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kehiy <me@kehiy.net>"]
+description = "Core Web of Trust implementation"
+license = "MIT"
+repository = "https://github.com/kehiy/wot-rs"
+readme = "../README.md"
+keywords = ["wot", "trust", "graph", "network"]
+categories = ["algorithms", "network-programming"]
 
 [dependencies]
 petgraph = "0.8"

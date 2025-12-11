@@ -140,4 +140,6 @@ name = "wot-rs"
 version = "0.1.0"
 dependencies = [
  "petgraph",
+ "wot-core",
+ "wot-nostr",
 ]

@@ -3,10 +3,20 @@ members = [
     "src/core",
     "src/nostr",
 ]
+
 [package]
 name = "wot-rs"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+authors = ["Kehiy <me@kehiy.net>"]
+description = "A Rust library for Web of Trust"
+license = "MIT"
+repository = "https://github.com/kehiy/wot-rs"
+readme = "README.md"
+keywords = ["wot", "trust", "graph", "nostr", "network"]
+categories = ["algorithms", "network-programming", "nostr", "pgp"]
 
 [dependencies]
+wot-core = { path = "src/core" }
+wot-nostr = { path = "src/nostr" }
 petgraph = "0.8.3"
