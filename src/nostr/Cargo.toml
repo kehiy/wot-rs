@@ -6,7 +6,7 @@ authors = ["Kehiy <me@kehiy.net>"]
 description = "Nostr integration for wot-rs"
 license = "MIT"
 repository = "https://github.com/kehiy/wot-rs"
-readme = "../README.md"
+readme = "../../README.md"
 keywords = ["wot", "trust", "nostr", "network"]
 categories = ["algorithms", "network-programming"]
 
