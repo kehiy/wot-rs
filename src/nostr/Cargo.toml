@@ -2,7 +2,7 @@
 name = "wot-nostr"
 version = "0.1.0"
 edition = "2021"
-authors = ["Kehiy <me@kehiy.net>"]
+authors = ["Keyhan <me@kehiy.net>"]
 description = "Nostr integration for wot-rs"
 license = "MIT"
 repository = "https://github.com/kehiy/wot-rs"

@@ -2,7 +2,7 @@
 name = "wot-core"
 version = "0.1.0"
 edition = "2021"
-authors = ["Kehiy <me@kehiy.net>"]
+authors = ["Keyhan <me@kehiy.net>"]
 description = "Core Web of Trust implementation"
 license = "MIT"
 repository = "https://github.com/kehiy/wot-rs"
