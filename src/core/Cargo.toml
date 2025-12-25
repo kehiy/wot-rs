@@ -1,6 +1,6 @@
 [package]
 name = "wot-core"
-version = "0.1.1"
+version = "0.1.0"
 edition = "2021"
 authors = ["Kehiy <me@kehiy.net>"]
 description = "Core Web of Trust implementation"
