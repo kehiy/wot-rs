@@ -16,6 +16,17 @@ You can use WoT with different algorithms in different places and here are some 
 
 Any kind of contribution is welcomed.
 
+# Resources
+
+1. [The PageRank Citation Ranking:
+Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+2. [Fast Incremental and Personalized PageRank](https://www.vldb.org/pvldb/vol4/p173-bahmani.pdf)
+3. [A Framework of Algorithms: Computing the Bias and
+Prestige of Nodes in Trust Networks](https://arxiv.org/pdf/1207.5661v1)
+4. [The EigenTrust Algorithm for Reputation Management in
+P2P Networks](https://nlp.stanford.edu/pubs/eigentrust.pdf)
+5. [Combating Web Spam with TrustRank](https://www.vldb.org/conf/2004/RS15P3.PDF)
+
 # License
 
 This software is published under [MIT License](./LICENSE).
